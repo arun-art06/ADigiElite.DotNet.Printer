@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADigiElite.DotNet.Printer", "ADigiElite.DotNet.Printer\ADigiElite.DotNet.Printer.csproj", "{7C2A3334-3507-483D-9E33-ED32AAF4EBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADigiElite.DotNet.Printer.Exe", "ADigiElite.DotNet.Printer.Exe\ADigiElite.DotNet.Printer.Exe.csproj", "{89B28E4C-A0A0-4D82-BFCC-4359D9F772A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2A3334-3507-483D-9E33-ED32AAF4EBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2A3334-3507-483D-9E33-ED32AAF4EBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2A3334-3507-483D-9E33-ED32AAF4EBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2A3334-3507-483D-9E33-ED32AAF4EBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B28E4C-A0A0-4D82-BFCC-4359D9F772A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B28E4C-A0A0-4D82-BFCC-4359D9F772A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B28E4C-A0A0-4D82-BFCC-4359D9F772A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B28E4C-A0A0-4D82-BFCC-4359D9F772A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
